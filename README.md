@@ -47,7 +47,7 @@
 ## 👨‍👩‍👧‍👦 Team Members
 - **Moataz Odeh** – moataz.ody44@gmail.com
 - **Siraj Jabarin** – serajwazza@gmail.com
-- **Adan Sulaimani** – adanslemany@gmail.com
+- **Adan Sulaimany** – adanslemany@gmail.com
 - **Adan Hammod** – adanhammod@gmail.com
 - **Muhammad Shahadeh** – muhammed.sh.181@gmail.com
 - **Najm Hijazi** – najm.hijaze@gmail.com
